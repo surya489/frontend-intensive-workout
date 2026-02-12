@@ -1,6 +1,6 @@
 export default function UserCard() {
     return (
-        <div className="bg-white rounded-2xl border shadow-sm p-6 flex justify-between items-center hover:shadow-lg hover:-translate-y-1 transition duration-300">
+        <div className="bg-white rounded-3xl border shadow-md p-6 flex justify-between items-center hover:shadow-2xl hover:-translate-y-1 transition duration-300">
 
             <div className="flex items-center gap-4">
                 <div className="h-12 w-12 bg-gray-200 rounded-full" />
